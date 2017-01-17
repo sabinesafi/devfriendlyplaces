@@ -33,6 +33,17 @@
         "wifi": {"available": true}
     },
     {
+        "name": "Sofa Café",
+        "lat": 48.8731657,
+        "lon": 2.3317778,
+        "address": "4 Rue la Fayette, 75009 Paris",
+        "type": "Coffee, restaurant",
+        "url": "http://www.sofacafe-restaurant.fr/",
+        "pro": "Centrally located, good wifi, several rooms available",
+        "power": {"available": false},
+        "wifi": {"available": true}
+    },
+    {
         "name": "Le Viaduc Café",
         "lat": 48.847632,
         "lon": 2.375131,
